@@ -1,6 +1,13 @@
 # Library Management System
 
 Welcome to the Library Management System project! This project is a comprehensive web application designed to manage a library's operations efficiently. It is developed using Java full stack technologies, including JSP (JavaServer Pages), Servlets, and JDBC (Java Database Connectivity).
+## Screen Shots
+
+
+![background](https://github.com/BotJavadoc/Library-Management-System/assets/78670888/7943ce25-dc73-4381-bb9d-f5fd1b0a2bde)
+![register](https://github.com/BotJavadoc/Library-Management-System/assets/78670888/ca931ff0-2208-44ee-baa1-a1e7306f4909)
+![home](https://github.com/BotJavadoc/Library-Management-System/assets/78670888/1c273f60-b68d-4950-97a9-004935f14882)
+![books](https://github.com/BotJavadoc/Library-Management-System/assets/78670888/8c874236-2ca7-4451-81d6-127822d5765e)
 
 ## Table of Contents
 
